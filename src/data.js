@@ -52,7 +52,7 @@ export const facts = [
     endNumber: "24",
     unit: "",
     title: "Monthly Classes",
-    desc: "Yoga is a physical, mental and spritual practice discipline. We provide 24+ classes monthly.",
+    desc: "Yoga is a physical, mental and spiritual practice discipline. We provide 24+ classes monthly.",
   },
 ];
 
@@ -60,21 +60,21 @@ export const courses = [
   {
     image: CourseImage1,
     title: "Resortive Yoga Training & Immersion",
-    desc: "Here is some tips for new job seekars who want to get a dream job and want to shine in his career.",
+    desc: "Here is some tips for new job seekers who want to get a dream job and want to shine in his career.",
     link: "Get started",
     delay: "600",
   },
   {
     image: CourseImage2,
     title: "Resortive Yoga Training & Immersion",
-    desc: "Here is some tips for new job seekars who want to get a dream job and want to shine in his career.",
+    desc: "Here is some tips for new job seekers who want to get a dream job and want to shine in his career.",
     link: "Get started",
     delay: "800",
   },
   {
     image: CourseImage3,
     title: "Resortive Yoga Training & Immersion",
-    desc: "Here is some tips for new job seekars who want to get a dream job and want to shine in his career.",
+    desc: "Here is some tips for new job seekers who want to get a dream job and want to shine in his career.",
     link: "Get started",
     delay: "900",
   },
@@ -95,7 +95,7 @@ export const pricing = [
       },
       {
         icon: <BsCheck />,
-        name: "Acces to all classes",
+        name: "Access to all classes",
       },
     ],
     buttonText: "Book now",
@@ -116,11 +116,11 @@ export const pricing = [
       },
       {
         icon: <BsCheck />,
-        name: "Acces to all classes",
+        name: "Access to all classes",
       },
       {
         icon: <BsCheck />,
-        name: "Acces to all mentors",
+        name: "Access to all mentors",
       },
     ],
     buttonText: "Book now",
@@ -141,11 +141,11 @@ export const pricing = [
       },
       {
         icon: <BsCheck />,
-        name: "Acces to all classes",
+        name: "Access to all classes",
       },
       {
         icon: <BsCheck />,
-        name: "Acces to all mentors",
+        name: "Access to all mentors",
       },
     ],
     buttonText: "Book now",
